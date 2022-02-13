@@ -6,7 +6,8 @@ The implementation of yacurl is found in py directory.
 1. `cd py`
 2. `python yacurl.py`
 Here, you'll be prompted to type the port and the url from the page you want to access.
-**Notes:** 
+
+### Notes:
 - valid options for port are 80 and 443.
 - Make sure of typing well the url as it is shown in browser.
 
